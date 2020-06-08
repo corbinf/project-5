@@ -52,5 +52,5 @@ JavaScript
 * Markdown language for README files
 * JavaScript ES6+ features
 * I finally learned how to correctly code dice rolling
-# [UOregon Pages Website](https://pages.uoregon.edu/corbinf/281/)
+
 # [Corbin Fisher's Github Page](https://corbinf.github.io/)
