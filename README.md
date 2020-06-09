@@ -53,4 +53,4 @@ JavaScript
 * JavaScript ES6+ features
 * I finally learned how to correctly code dice rolling
 
-# [Corbin Fisher's Github Page](https://corbinf.github.io/)
+## [Corbin Fisher's Github Page](https://corbinf.github.io/)
