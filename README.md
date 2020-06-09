@@ -1,3 +1,4 @@
+## [Corbin Fisher's Github Page](https://corbinf.github.io/)
 ## 281 Project 5 Learning Outcomes
 ### Learning Outcomes
 * Build a RESTful Web Service that stores telephone numbers in a
@@ -52,5 +53,3 @@ JavaScript
 * Markdown language for README files
 * JavaScript ES6+ features
 * I finally learned how to correctly code dice rolling
-
-## [Corbin Fisher's Github Page](https://corbinf.github.io/)
